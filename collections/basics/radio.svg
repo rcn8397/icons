@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="radio.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.666667"
+     inkscape:cx="12.143236"
+     inkscape:cy="26.423424"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1394"
+     inkscape:window-height="750"
+     inkscape:window-x="1730"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4573" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3729" />
+  <metadata
+     id="metadata3732">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:description>http://write.flossmanuals.net/inkscape/creating-icons/</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ryan C Nordeen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>radio</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       id="path3745"
+       cx="24.063728"
+       cy="24.201437"
+       r="23.665981"
+       style="fill:#ff7f00;fill-opacity:1" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.84698957"
+       id="rect4575"
+       width="33"
+       height="19"
+       x="7.5637283"
+       y="14.701437"
+       ry="1.6521739" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.1484375"
+       id="path4580"
+       cx="17.609375"
+       cy="24.201437"
+       r="6.890625" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1"
+       id="path4584"
+       cx="31.125"
+       cy="28.875"
+       r="1.5" />
+    <circle
+       r="1.5"
+       cy="28.875"
+       cx="35.0625"
+       id="circle4586"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 36,16 V 10"
+       id="path4588"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
