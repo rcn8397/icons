@@ -2,21 +2,22 @@
 from filewalker import FileWalker
 import os
 
-md_template  = '![Alt text]({0}?sanitize=true)'
+md_template  = '![{0}]({1}?sanitize=true)'
 tag_template = '<img src="{0}?sanitize=true">'
 
 def main( args ):
     fw = FileWalker( args.path )
     svgs = fw.find( ['.svg'] )
     for svg in svgs:
-        if args.html:
-            template = tag_template
-        else:
-            template = md_template
         if svg[0] == '.':
             svg = svg[1:]
         path = args.repo + svg
-        print( template.format( path ) )
+
+        if args.html:
+            print( tag_template.format( path ) )
+        else:
+            print( md_template.format( os.path.basename( svg ), path ) )
+
 
 # Temporary to test view
 if __name__ == '__main__':
