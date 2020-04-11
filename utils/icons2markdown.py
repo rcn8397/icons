@@ -30,6 +30,6 @@ if __name__ == '__main__':
     parser.add_argument( '-x', '--html', action="store_true",
                          help="Create HTML tags instead" )
     parser.add_argument( '-r', '--repo', help='Repo to prepend',
-                         default='https://github.com/rcn8397/icons' )
+                         default='https://github.com/rcn8397/icons/blob/master' )
     args = parser.parse_args()
     main(args)
