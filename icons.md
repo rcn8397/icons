@@ -7,6 +7,7 @@
 ![radio.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/radio.svg?sanitize=true)
 ![boxpack.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/boxpack.svg?sanitize=true)
 ![lefthand.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/lefthand.svg?sanitize=true)
+![edit.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/edit.svg?sanitize=true)
 ![lightbulb.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/lightbulb.svg?sanitize=true)
 ![box2.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/box2.svg?sanitize=true)
 ![box.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/box.svg?sanitize=true)
