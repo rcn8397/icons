@@ -12,4 +12,5 @@
 ![box.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/box.svg?sanitize=true)
 ![move.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/move.svg?sanitize=true)
 ![selectbox.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/selectbox.svg?sanitize=true)
+![group.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/group.svg?sanitize=true)
 ![cog.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/cog.svg?sanitize=true)
