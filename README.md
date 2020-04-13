@@ -10,3 +10,5 @@ https://inkscape.org/
 CairoSVG 
 https://cairosvg.org/
 
+# Previews
+[icons.md](icons.md)
