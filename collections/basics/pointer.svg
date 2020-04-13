@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="62.25883"
+     inkscape:cx="87.936581"
      inkscape:cy="46.353716"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1357"
+     showgrid="false"
+     inkscape:window-width="1299"
      inkscape:window-height="694"
-     inkscape:window-x="2094"
-     inkscape:window-y="188"
+     inkscape:window-x="67"
+     inkscape:window-y="44"
      inkscape:window-maximized="0"
      inkscape:grid-bbox="true"
      inkscape:snap-bbox="true"
@@ -56,26 +56,25 @@
      id="defs815">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1542">
+       id="linearGradient5844">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#070707;stop-opacity:1;"
          offset="0"
-         id="stop1538" />
+         id="stop5840" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.19597989"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
-         id="stop1540" />
+         id="stop5842" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1542"
-       id="linearGradient1544"
-       x1="25"
-       y1="28"
-       x2="125"
-       y2="128"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.01930059,-0.01930274)" />
+       xlink:href="#linearGradient5844"
+       id="linearGradient5846"
+       x1="2.7653131"
+       y1="125.44698"
+       x2="128.24263"
+       y2="0.71394163"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata818">
@@ -85,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Ryan C Nordeen</dc:title>
@@ -99,8 +98,8 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       style="fill:url(#linearGradient1544);fill-opacity:1;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 92.726026,27.439602 1.3250285,1.3250307 27.4396,92.726029 53.55417,66.611459 113.61769,126.67497 126.67497,113.6177 66.611457,53.554172 Z"
+       style="fill:#393939;fill-opacity:1;stroke:url(#linearGradient5846);stroke-width:4.60300016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 90.445184,30.34248 6.3013944,6.3013972 30.342478,90.445187 54.38356,66.404105 109.67806,121.69859 121.6986,109.67807 66.404102,54.383562 Z"
        id="path1507"
        inkscape:connector-curvature="0" />
   </g>
