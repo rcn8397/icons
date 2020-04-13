@@ -2,6 +2,7 @@
 ![egg.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/egg.svg?sanitize=true)
 ![newdoc.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/newdoc.svg?sanitize=true)
 ![pointer.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/pointer.svg?sanitize=true)
+![brush.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/brush.svg?sanitize=true)
 ![hand1.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/hand1.svg?sanitize=true)
 ![radio.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/radio.svg?sanitize=true)
 ![boxpack.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/boxpack.svg?sanitize=true)
