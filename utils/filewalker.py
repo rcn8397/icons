@@ -34,7 +34,7 @@ class FileWalker( object ):
                     try:
                         o = obj( match )
                     except Exception as e:
-                        print str( e )
+                        print( str( e ) )
                         sys.exit( 'Failure to create {0} as {1}'.format( match, obj ) )
                     matches.append( o )
         return matches
@@ -52,6 +52,6 @@ class FileWalker( object ):
                                           topdown=True,
                                           followlinks = self.followlinks ):
             for name in files:
-                print os.path.join( root, name )
+                print( os.path.join( root, name ) )
             for name in dirs:
-                print os.path.join( root, name )
+                print( os.path.join( root, name ) )
