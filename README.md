@@ -9,7 +9,7 @@ https://inkscape.org/
 
 Give the util a path to the SVGs and a size in pixels. The size is width by height
 
-```
+```bash
     python3 ./utils/svg2png.py collections/basics 64
 ```
 
