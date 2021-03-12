@@ -26,3 +26,6 @@ Icon sources
 
 ## Generating thumbnails
 To generate icons.md run the icons2markdown.py in the utils folder.
+
+    python ./utils/icons2markdown.py . > icons.md
+    
