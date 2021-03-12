@@ -23,3 +23,6 @@ The conversion script uses CairoSVG to convert the input sources.
 Icon sources
 
 *  [icons.md](icons.md)
+
+## Generating thumbnails
+To generate icons.md run the icons2markdown.py in the utils folder.
