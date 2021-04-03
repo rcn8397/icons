@@ -5,6 +5,8 @@
 ![folder.svg](https://github.com/rcn8397/icons/blob/master/collections/vidstreamer/folder.svg?sanitize=true)
 ![minus.svg](https://github.com/rcn8397/icons/blob/master/collections/vidstreamer/minus.svg?sanitize=true)
 ![file_proto.svg](https://github.com/rcn8397/icons/blob/master/collections/vidstreamer/file_proto.svg?sanitize=true)
+![folderplus.svg](https://github.com/rcn8397/icons/blob/master/collections/vidstreamer/folderplus.svg?sanitize=true)
+![folder1.svg](https://github.com/rcn8397/icons/blob/master/collections/vidstreamer/folder1.svg?sanitize=true)
 ![file.svg](https://github.com/rcn8397/icons/blob/master/collections/vidstreamer/file.svg?sanitize=true)
 ![edit.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/edit.svg?sanitize=true)
 ![tophat.svg](https://github.com/rcn8397/icons/blob/master/collections/basics/tophat.svg?sanitize=true)
